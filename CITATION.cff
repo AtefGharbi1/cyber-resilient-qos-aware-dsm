@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "CQ-DSM: Cyber-Physical Quality-of-Service-Aware Demand-Side Management"
+authors:
+  - family-names: "Author"
+    given-names: "First"
+year: 2026
+repository-code: "https://github.com/REPLACE-WITH-ACCOUNT/REPLACE-WITH-REPOSITORY"
+# doi: "REPLACE-WITH-PAPER-OR-ZENODO-DOI"
+# conference: "REPLACE-WITH-VENUE"

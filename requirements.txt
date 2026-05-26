@@ -1,0 +1,10 @@
+# CQ-DSM v11 — Python dependencies
+# Tested on Python 3.9+
+# Install: pip install -r requirements.txt
+
+mip>=1.14.0          # CBC MILP solver wrapper
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.6
+scipy>=1.10
+scikit-learn>=1.3    # 1.3+ for MLPClassifier sample_weight in fit()
